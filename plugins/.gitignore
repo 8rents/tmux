@@ -1,0 +1,13 @@
+# =============================
+# Library Whitelist Ignore File
+# =============================
+# This file sets git to ignore everything in this folder except for the README.md file. This is to leave the directory in place as a place holder when cloning the zsh repo.
+# ----------------------------
+
+# Ignore all files and sub directories
+# ** = dirs, * = files
+*
+!.gitignore
+# Exclude (whitelist) the README (in this folder only) from being ignored
+!./README.md
+

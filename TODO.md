@@ -8,9 +8,11 @@
 
 ## Cue
 
-- [ ] **Push the conf to github**
-- [ ] **Simplify the status bar**
+- [ ] **get tpm installed**
+- [ ] **Simplify the status bar with the dotbar plugin**
+- [ ] **Make sure the dotbar theme matches**
 
 ## Completed
 
+- [x] **Push the conf to github**
 - [x] **Complete a basic tmux.conf**
